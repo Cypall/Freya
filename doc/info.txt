@@ -1,0 +1,13 @@
+Source
+https://subversion.assembla.com/svn/freya/
+https://github.com/flaviojs
+
+Freya SVN Aurora Release [Aurora]
+Revision - 1865 (compiled on 4.1.20)
+Freya Aurora SQL
+Freya Aurora TXT
+
+Freya SVN Release [Trunk]
+Revision - 1752 (compiled on 4.1.20)
+Freya SQL
+Freya TXT
